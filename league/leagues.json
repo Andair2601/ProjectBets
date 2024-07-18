@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Brazil Serie B",
+    "startDate": "2024-04-19 00:00:00",
+    "code": 115,
+    "country": "Brazil"
+  },
+  {
+    "name": "Iraq League",
+    "startDate": "2023-10-20 00:00:00",
+    "code": 447,
+    "country": "Iraq"
+  },
+  {
+    "name": "MLS League",
+    "startDate": "2024-02-20 00:00:00",
+    "code": 85,
+    "country": "USA"
+  },
+  {
+    "name": "Argentina Primera B",
+    "startDate": "2024-02-01 00:00:00",
+    "code": 149,
+    "country": "Argentina"
+  },
+  {
+    "name": "J1 League",
+    "startDate": "2024-02-22 00:00:00",
+    "code": 73,
+    "country": "Japan"
+  },
+  {
+    "name": "J2 League",
+    "startDate": "2024-02-22 00:00:00",
+    "code": 128,
+    "country": "Japan"
+  },
+
+  {
+    "name": "Brazil Serie A",
+    "startDate": "2024-04-12 00:00:00",
+    "code": 129,
+    "country": "Brazil"
+  },
+  {
+    "name": "Brazil Serie C",
+    "startDate": "2024-04-19 00:00:00",
+    "code": 7871,
+    "country": "Brazil"
+  },
+  {
+    "name": "Noruega Primera division",
+    "startDate": "2024-03-30 00:00:00",
+    "code": 143,
+    "country": "Noruega"
+  },
+  {
+    "name": "China Super League",
+    "startDate": "2024-02-29 00:00:00",
+    "code": 116,
+    "country": "China"
+  },
+  {
+    "name": "China Division 1",
+    "startDate": "2024-03-08 00:00:00",
+    "code": 210,
+    "country": "China"
+  },
+  {
+    "name": "Veikkausliiga Finlandia",
+    "startDate": "2024-05-04 00:00:00",
+    "code": 979,
+    "country": "Finlandia"
+  },
+  {
+    "name": "Argentina Primera Division",
+    "startDate": "2024-05-09 00:00:00",
+    "code": 19290,
+    "country": "Argentina"
+  },
+  {
+    "name": "Suecia Superetan",
+    "startDate": "2024-03-29 00:00:00",
+    "code": 126,
+    "country": "Suecia"
+  },
+  {
+    "name": "K League 1",
+    "startDate": "2024-02-29 00:00:00",
+    "code": 10986,
+    "country": "Corea del Sur"
+  },
+  {
+    "name": "USA MLS Next Pro League",
+    "startDate": "2024-03-15 00:00:00",
+    "code": 22724,
+    "country": "USA"
+  },
+  {
+    "name": "Allsvenskan",
+    "startDate": "2024-03-28 00:00:00",
+    "code": 66,
+    "country": "Suecia"
+  },
+  {
+    "name": "USA USL League Two",
+    "startDate": "2024-05-03 00:00:00",
+    "code": 11818,
+    "country": "USA"
+  }
+]
